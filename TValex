@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:0,Tigres vs leon
 https://streaming1.streamlive.to/edge/l8b2zwy76fgw52d/chunks.m3u8?nimblesessionid=4549390&wmsAuthSign=c2VydmVyX3RpbWU9NC8xLzIwMTggMTo0NDozMSBBTSZoYXNoX3ZhbHVlPWg4ekg1eEZNS1pNTUJOUHBrSzBieXc9PSZ2YWxpZG1pbnV0ZXM9MzAmc3RybV9sZW49MjAmaWQ9MA==
+#EXTINF:0,Tigres vs leon
+http://cdn.whostreams.net:8081/wsedge/18dqbiepshyy/chunks.m3u8?nimblesessionid=11973874&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMTggMTI6NDA6MzEgQU0maGFzaF92YWx1ZT1jYVRGRmxQZlViekZoemFaRnhmNjRRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,Tigres vs leon
+https://streaming1.streamlive.to/edge/18dqbiepshyy/chunks.m3u8?nimblesessionid=11973874&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMTggMTI6NDA6MzEgQU0maGFzaF92YWx1ZT1jYVRGRmxQZlViekZoemFaRnhmNjRRPT0mdmFsaWRtaW51dGVzPTIw
