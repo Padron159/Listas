@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:0,Tigres vs leon
-http://bloom.therugbybase.us/o2/414.m3u8?sf=NTcwZWNjZDc0ODk0Yw==&token=Ai9UfwY7AlQ6_yauyEtu_Q&expires=1523761612#EXTINF:0,Tigres vs leon
-#EXTINF:0,Tigres vs leon
-http://cdn.whostreams.net:8081/wsedge/18dqbiepshyy/chunks.m3u8?nimblesessionid=11973874&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMTggMTI6NDA6MzEgQU0maGFzaF92YWx1ZT1jYVRGRmxQZlViekZoemFaRnhmNjRRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,Tigres vs leon 2
 http://95.211.214.158:8088/adfree/zonex2n/playlist.m3u8?id=2450&wowzasessionid=472422877&pk=a0073031fd6cc610504dac51a5dc2e932fdc8c92717f9b95e9910ae15c778d96#EXTINF:0,Tigres vs leon
-#EXTINF:0,Tigres vs leon
-http://62.212.82.87:8088/adfree/zonex2n/playlist.m3u8?id=2450&wowzasessionid=634558492&pk=a64bee47c864cf80983c4cb884fd00540d701118b802054fcff5c84d877369ac
-
-
 
 
