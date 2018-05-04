@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:0,Tigres vs Rayados 1
-http://pe03.quest123.top:8088/adfree/zonex2n/playlist.m3u8?id=2450&wowzasessionid=568998434&pk=5c45d91b89899eff5632c004867b355ebe891c27cf85c2dfab223aede76bc8d9
+#EXTINF:0,Tigres vs Santos
+http://pe02.quest123.top:8088/adfree/zonex2n/playlist.m3u8?id=2450&wowzasessionid=633086622&pk=a66a364eb7502065a0c18372e996e7744123baa657c4940fee81b049f7583387
 #EXTINF:0,Tigres vs Rayados 2
 http://95.211.147.97:8088/adfree/zonex2n/playlist.m3u8?id=2450&wowzasessionid=568998434&pk=5c45d91b89899eff5632c004867b355ebe891c27cf85c2dfab223aede76bc8d9
-#EXTINF:0,Tigres vs Rayados 3
+#EXTINF:0,Tigres vs Santos 2
 http://stdephds-lh.akamaihd.net/i/ad3pst02hds_1@335205/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Tigres vs Rayados 4
-https://runner.allcast.is/hls/ch4allcast2021-3062.ts
-#EXTINF:0,Tigres vs Rayados 5
-https://runner.allcast.is/hls/ch15allcast2021.m3u8?secure=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDY6MTQ6MjQgUE0maGFzaF92YWx1ZT1LMHYzbTdaSDlFTFRFNUVacEt3RXdBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0yMA==&expires=1524942864&md5=XyM5RbdFweA6Iw7FCqiJJw
-#EXTINF:0,Tigres vs Rayados 6
-https://runner.allcast.is/hls/ch4allcast2021.m3u8?secure=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDU6NDI6NTQgUE0maGFzaF92YWx1ZT0vYlVnZnVEVW5BK0V2RjZvWFNKcmx3PT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0xOQ==&expires=1524940974&md5=8zp0lPcUFuoiaSRTDSYkqg
-#EXTINF:0,Tigres vs Rayados 7
-https://runner.allcast.is/hls/ch2allcast2021-2974.ts
-#EXTINF:0,Tigres vs Rayados 8
-https://runner.allcast.is/hls/ch2allcast2021.m3u8?secure=c2VydmVyX3RpbWU9NC8yOC8yMDE4IDY6Mjc6MDMgUE0maGFzaF92YWx1ZT1yNk5QZVVrenVNdDRUMXE4ekVRcXRBPT0mdmFsaWRtaW51dGVzPTE4MCZzdHJtX2xlbj0xOQ==&expires=1524943623&md5=eV3inN3PxizlkEG_Q960hA
 
